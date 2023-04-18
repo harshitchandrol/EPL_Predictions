@@ -21,7 +21,7 @@ The aim of this project was to build a model that could accurately predict the o
 - Also, I wanted to demonstrate machine learning skills learned in my coursework. Topics such as data cleaning, data manipulation, understanding correlation, modeling, model improvement strategies, and evaluation. 
 
 ## Dataset 
-Note: the dataset for this project was initially gathered by scraping the website “https://fbref.com/en/comps/9/Premier-League-Stats” using the BeautifulSoup library but eventually the scraping code is outdated as the website got updated. The code will be launched soon and will be added to the repository.
+Note: the dataset for this project was initially gathered by scraping the website “https://fbref.com/en/comps/9/Premier-League-Stats” using the BeautifulSoup library. you can find the code ini web_scrapping file.
 
 For the project, the data was captured from the website for individual teams and seasons. The attached file here has the data for teams' scores and fixtures and shooting variables from 2019 to 2023. All the files collected were combined in a single file using a python code available here. But if you need the final combined file, you can find it here. 
 
