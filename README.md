@@ -32,23 +32,24 @@ The dataset consists of the following attributes which are gathered from both th
 4.	Round - Round or Phase of Competition
 5.	Day - Day of the week
 6.	Venue - Matched played at home or Away. 
-7.	GF - Goals For 
-8.	GA - Goals Against
-9.	Opponent - The opponent team
-10.	Poss. - Possession - calculated as the number of passes attempted.
-11.	Formation - No. of players in each row from defenders to forwards, not including the goalkeeper.
-12.	Referee - the referee of the match
-13.	team - stats respective to the team 
-14.	Gls - Goals scored. 
-15.	Sh - Shots total
-16.	SoT- Shots on target, does not include penalty kicks
-17.	SoT percentage - shots on the target percentage value
-18.	G/Sh - Goals per shot 
-19.	G/SoT - Goals per shot on target
-20.	Dist - Average Shot distance
-21.	FK - Shot from free kicks.
-22.	PK - Penalty kicks made. 
-23.	PKatt - Penalty kicks attempted.
+7.	Result - Result of the match Win or lost.
+8.	GF - Goals For 
+9.	GA - Goals Against
+10.	Opponent - The opponent team
+11.	Poss. - Possession - calculated as the number of passes attempted.
+12.	Formation - No. of players in each row from defenders to forwards, not including the goalkeeper.
+13.	Referee - the referee of the match
+14.	team - stats respective to the team 
+15.	Gls - Goals scored. 
+16.	Sh - Shots total
+17.	SoT- Shots on target, does not include penalty kicks
+18.	SoT percentage - shots on the target percentage value
+19.	G/Sh - Goals per shot 
+20.	G/SoT - Goals per shot on target
+21.	Dist - Average Shot distance
+22.	FK - Shot from free kicks.
+23.	PK - Penalty kicks made. 
+24.	PKatt - Penalty kicks attempted.
 
 ## Data Cleaning & Preparation
 
